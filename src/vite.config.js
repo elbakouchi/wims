@@ -1,0 +1,1 @@
+/home/hamza/projects/tecdiary/vite.config.js

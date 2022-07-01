@@ -1,0 +1,1 @@
+/home/hamza/projects/tecdiary/README.md
