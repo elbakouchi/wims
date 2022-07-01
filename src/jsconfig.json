@@ -1,1 +1,10 @@
-/home/hamza/projects/tecdiary/jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@r/*": ["resources/*"],
+      "@/*": ["resources/js/*"]
+    }
+  },
+  "exclude": ["node_modules", "public"]
+}

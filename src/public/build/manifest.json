@@ -1,0 +1,21 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.996cd8d8.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.2a1a5bba.js"
+    ],
+    "dynamicImports": [
+      "vite/dynamic-import-polyfill"
+    ]
+  },
+  "_vendor.2a1a5bba.js": {
+    "file": "assets/vendor.2a1a5bba.js"
+  },
+  "vite/dynamic-import-polyfill": {
+    "file": "assets/dynamic-import-polyfill.f85f74e1.js",
+    "src": "vite/dynamic-import-polyfill",
+    "isDynamicEntry": true
+  }
+}
